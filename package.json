@@ -1,0 +1,7 @@
+{
+  "name": "mirror-agent",
+  "version": "1.0.0",
+  "description": "Mirror - Your Personal AI Reflection Agent",
+  "main": "api/chat.js",
+  "license": "MIT"
+}
